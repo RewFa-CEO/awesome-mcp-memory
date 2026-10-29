@@ -25,6 +25,7 @@ Star counts update live via badges. Sorted by category, not by hype.
 | [memU](https://github.com/NevaMind-AI/memU) | Personal memory across agents | ![Stars](https://img.shields.io/github/stars/NevaMind-AI/memU) |
 | [EverOS](https://github.com/EverMind-AI/EverOS) | Portable memory layer, local-first & Markdown-native | ![Stars](https://img.shields.io/github/stars/EverMind-AI/EverOS) |
 | [MemOS](https://github.com/MemTensor/MemOS) | Self-evolving memory OS for LLMs & agents | ![Stars](https://img.shields.io/github/stars/MemTensor/MemOS) |
+| [cognee](https://github.com/topoteretes/cognee) | Open-source AI memory platform: memory pipelines for agents | ![Stars](https://img.shields.io/github/stars/topoteretes/cognee) |
 
 **MCP-native memory servers**
 
