@@ -35,6 +35,7 @@ Star counts update live via badges. Sorted by category, not by hype.
 | [mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | Knowledge-graph memory server for Claude, persistent & local | ![Stars](https://img.shields.io/github/stars/doobidoo/mcp-memory-service) |
 | [xerj](https://github.com/xerj-org/xerj) | Local-first search engine + MCP server, one Rust binary | ![Stars](https://img.shields.io/github/stars/xerj-org/xerj) |
 | [mcp-memory-server](https://github.com/Amio242/mcp-memory-server) | Persistent shared memory server for AI agents via MCP | ![Stars](https://img.shields.io/github/stars/Amio242/mcp-memory-server) |
+| [nocturne_memory](https://github.com/Dataojitori/nocturne_memory) | Lightweight, rollbackable, visual long-term memory server | ![Stars](https://img.shields.io/github/stars/Dataojitori/nocturne_memory) |
 | [AMP](https://github.com/RewFa-CEO/AMP) | Cross-agent memory hub: one shared store via MCP & REST, TS + Python + Chrome capture — *maintained by this list's curator* | ![Stars](https://img.shields.io/github/stars/RewFa-CEO/AMP) |
 
 **Coding-agent memory**
@@ -44,6 +45,7 @@ Star counts update live via badges. Sorted by category, not by hype.
 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Local code intelligence connecting code, docs & inference | ![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp) |
 | [engram](https://github.com/Gentleman-Programming/engram) | Persistent memory for AI coding agents; agent-agnostic Go binary | ![Stars](https://img.shields.io/github/stars/Gentleman-Programming/engram) |
 | [ECC](https://github.com/affaan-m/ECC) | Agent harness system with unified memory vault, skills & security scanning | ![Stars](https://img.shields.io/github/stars/affaan-m/ECC) |
+| [aoci-code](https://github.com/aoci-spec/aoci-code) | Persistent, Git-versioned map of your codebase for coding agents | ![Stars](https://img.shields.io/github/stars/aoci-spec/aoci-code) |
 
 ## Connect one in 30 seconds
 
