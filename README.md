@@ -37,6 +37,7 @@ Star counts update live via badges. Sorted by category, not by hype.
 | [mcp-memory-server](https://github.com/Amio242/mcp-memory-server) | Persistent shared memory server for AI agents via MCP | ![Stars](https://img.shields.io/github/stars/Amio242/mcp-memory-server) |
 | [nocturne_memory](https://github.com/Dataojitori/nocturne_memory) | Lightweight, rollbackable, visual long-term memory server | ![Stars](https://img.shields.io/github/stars/Dataojitori/nocturne_memory) |
 | [AMP](https://github.com/RewFa-CEO/AMP) | Cross-agent memory hub: one shared store via MCP & REST, TS + Python + Chrome capture — *maintained by this list's curator* | ![Stars](https://img.shields.io/github/stars/RewFa-CEO/AMP) |
+| [Cloud Alter Ego](https://github.com/SebastiaanBoon/cloud-alter-ego) | Remote MCP connector: your rules and context as Markdown in your own drive. I built it | ![Stars](https://img.shields.io/github/stars/SebastiaanBoon/cloud-alter-ego) |
 
 **Coding-agent memory**
 
